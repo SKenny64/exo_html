@@ -1,0 +1,51 @@
+svg 
+    {fill:#000080
+}
+
+.corp {
+    border: 3px solid black;
+    width: 1000px;
+    margin: 0px auto;
+    padding: 10px;
+    font-size: large;
+}
+
+header {
+    border:3px solid black;
+    margin: 0px auto;
+    width: auto;
+    padding: 1em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}main {
+    border:3px solid black;
+    margin: 0px auto;
+    width: auto;
+    padding: 1em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}footer {
+    border:3px solid black;
+    margin: 0px auto;
+    width: auto;
+    padding: 1em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.imagefront img {
+    align-items: center;
+    width: 100%;
+    margin: 0% auto;
+}
+
+.bandeau {
+    padding-inline-start: 0px;
+}
+
+.bandeau li {
+    margin: 0;
+    list-style: none;
+    display: inline-block;
+
+}
